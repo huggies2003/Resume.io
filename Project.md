@@ -7,11 +7,18 @@
 สวัสดีครับ! ยินดีที่ได้รู้จัก 😊
 
 
-## 🔧 เทคโนโลยีที่ใช้
-- **Languages:** Python, JavaScript, Java, C++
-- **Frameworks:** React, Node.js, 
-- **Databases:** MySQL, PostgreSQL, 
-- **Tools:** Git, Docker, Jenkins
+## 💻 Project
+- **C and C++ :** Created a simulated gambling website featuring login functionality, balance top-up, and various games such as horse racing, Sic Bo, baccarat, and slot machines.
+  
+- **Java :** Developed a horror-themed game where players click to reveal hidden features, with ghosts appearing at different stages of the game.
+  
+- **Databast :** Designed a database query system to analyze player habits, tracking how many hours a player spends on games daily and organizing the data in a database.
+  
+- **Html and Css :** Built a personal website to showcase personal information.
+
+- **System Analysis Project:** Analyzed and planned a freelance platform, including UX/UI design with Figma.
+  
+  
 
 
 ## 📣 ติดต่อฉัน
